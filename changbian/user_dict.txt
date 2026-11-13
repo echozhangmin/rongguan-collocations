@@ -1,0 +1,39 @@
+# User dictionary for jieba (simplified forms; the text is converted t2s
+# before segmentation because jieba's dictionary is simplified).
+# 冗官 cluster + institutional terms of Northern Song office reform.
+冗官
+冗兵
+冗食
+滥官
+滥赏
+差遣
+磨勘
+奏荐
+黜陟
+员多阙少
+抑侥幸
+杨于陵
+于陵
+黄香
+江夏
+东郡
+皇甫规
+张奂
+许遂振
+裴垍
+岭南
+节度使
+永兴军
+崇福宫
+御史台
+度辽将军
+三辅
+堧垣
+乞留
+衰疾
+治剧
+一介之使
+宫台
+职事
+督责
+劳来

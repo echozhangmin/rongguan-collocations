@@ -1,0 +1,6 @@
+jieba>=0.42.1
+opencc-python-reimplemented>=0.1.7
+qhchina>=0.2.7
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
